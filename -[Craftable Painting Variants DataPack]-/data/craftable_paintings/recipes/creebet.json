@@ -1,0 +1,33 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:black_dye"
+        },
+        {
+            "item": "minecraft:blue_dye"
+        },
+        {
+            "item": "minecraft:green_dye"
+        },
+        {
+            "item": "minecraft:lime_dye"
+        },
+        {
+            "item": "minecraft:painting"
+        },
+        {
+            "item": "minecraft:white_dye"
+        }
+    ],
+    "result": {
+        "id": "minecraft:painting",
+        "count": 1,
+        "components":{
+			"entity_data":{
+				"variant": 									"creebet","id":"minecraft:painting"
+			},
+			"custom_model_data": 14
+		}
+	}
+}

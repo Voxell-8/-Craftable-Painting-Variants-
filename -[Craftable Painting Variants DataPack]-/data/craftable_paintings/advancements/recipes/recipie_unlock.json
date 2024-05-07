@@ -1,0 +1,48 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:painting"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "craftable_paintings:alban",
+      "craftable_paintings:aztec",
+      "craftable_paintings:aztec2",
+      "craftable_paintings:bomb",
+      "craftable_paintings:burning_skull",
+      "craftable_paintings:bust",
+      "craftable_paintings:courbet",
+      "craftable_paintings:creebet",
+      "craftable_paintings:donkey_kong",
+      "craftable_paintings:earth",
+      "craftable_paintings:fighters",
+      "craftable_paintings:fire",
+      "craftable_paintings:graham",
+      "craftable_paintings:kebab",
+      "craftable_paintings:match",
+      "craftable_paintings:pigscene",
+      "craftable_paintings:plant",
+      "craftable_paintings:pointer",
+      "craftable_paintings:pool",
+      "craftable_paintings:sea",
+      "craftable_paintings:skeleton",
+      "craftable_paintings:skull_and_roses",
+      "craftable_paintings:stage",
+      "craftable_paintings:sunset",
+      "craftable_paintings:void",
+      "craftable_paintings:wanderer",
+      "craftable_paintings:wasteland",
+      "craftable_paintings:water",
+      "craftable_paintings:wind",
+      "craftable_paintings:wither"
+    ]
+  }
+}
