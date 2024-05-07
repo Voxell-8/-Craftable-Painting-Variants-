@@ -1,1 +1,1 @@
-** Craftable Painting Variants
+**Craftable Painting Variants**
