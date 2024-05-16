@@ -1,1 +1,1 @@
-## Craftable Painting Variants Resource & Data Packs
+## Craftable Painting Variants Resource & Data Packs v2
