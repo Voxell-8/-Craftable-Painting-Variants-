@@ -1,0 +1,33 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:green_dye"
+        },
+        {
+            "item": "minecraft:red_dye"
+        },
+        {
+            "item": "minecraft:orange_dye"
+        },
+        {
+            "item": "minecraft:yellow_dye"
+        },
+        {
+            "item": "minecraft:painting"
+        },
+        {
+            "item": "minecraft:white_dye"
+        }
+    ],
+    "result": {
+        "id": "minecraft:painting",
+        "count": 1,
+        "components":{
+			"entity_data":{
+				"variant": 									"bomb","id":"minecraft:painting"
+			},
+			"custom_model_data": 5
+		}
+	}
+}

@@ -1,0 +1,42 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:black_dye"
+        },
+        {
+            "item": "minecraft:brown_dye"
+        },
+        {
+            "item": "minecraft:orange_dye"
+        },
+        {
+            "item": "minecraft:green_dye"
+        },
+        {
+            "item": "minecraft:painting"
+        },
+        {
+            "item": "minecraft:yellow_dye"
+        },
+        {
+            "item": "minecraft:cyan_dye"
+        },
+        {
+            "item": "minecraft:light_gray_dye"
+        },
+        {
+            "item": "minecraft:white_dye"
+        }
+    ],
+    "result": {
+        "id": "minecraft:painting",
+        "count": 1,
+        "components":{
+			"entity_data":{
+				"variant": 									"pond","id":"minecraft:painting"
+			},
+			"custom_model_data": 48
+		}
+	}
+}

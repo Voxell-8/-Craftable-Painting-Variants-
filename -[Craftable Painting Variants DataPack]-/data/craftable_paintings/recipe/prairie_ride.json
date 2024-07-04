@@ -1,0 +1,33 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:red_dye"
+        },
+        {
+            "item": "minecraft:orange_dye"
+        },
+        {
+            "item": "minecraft:yellow_dye"
+        },
+        {
+            "item": "minecraft:green_dye"
+        },
+        {
+            "item": "minecraft:painting"
+        },
+        {
+            "item": "minecraft:light_blue_dye"
+        }
+    ],
+    "result": {
+        "id": "minecraft:painting",
+        "count": 1,
+        "components":{
+			"entity_data":{
+				"variant": 									"prairie_ride","id":"minecraft:painting"
+			},
+			"custom_model_data": 32
+		}
+	}
+}
