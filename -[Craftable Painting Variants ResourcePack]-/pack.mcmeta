@@ -1,11 +1,11 @@
 {
    "credit": "Made by Voxel_8",
    "pack":{
-      "pack_format":32,
+      "pack_format":34,
       "supported_formats": {
           "min_inclusive": 15,
-          "max_inclusive": 33
+          "max_inclusive": 50
       },
-      "description":"§4ResourcePack §d1.20 §ev2 §cNote:\nData Pack needed for recipes!"
+      "description":"§4ResourcePack §b1.21 §ev3 §cNote:\nData Pack needed for recipes!"
    }
 }
