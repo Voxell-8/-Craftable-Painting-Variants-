@@ -1,0 +1,42 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:black_dye"
+        },
+        {
+            "item": "minecraft:red_dye"
+        },
+        {
+            "item": "minecraft:yellow_dye"
+        },
+        {
+            "item": "minecraft:gray_dye"
+        },
+        {
+            "item": "minecraft:painting"
+        },
+        {
+            "item": "minecraft:light_gray_dye"
+        },
+        {
+            "item": "minecraft:green_dye"
+        },
+        {
+            "item": "minecraft:lime_dye"
+        },
+        {
+            "item": "minecraft:white_dye"
+        }
+    ],
+    "result": {
+        "id": "minecraft:painting",
+        "count": 1,
+        "components":{
+			"entity_data":{
+				"variant": 									"cotan","id":"minecraft:painting"
+			},
+			"custom_model_data": 41
+		}
+	}
+}
