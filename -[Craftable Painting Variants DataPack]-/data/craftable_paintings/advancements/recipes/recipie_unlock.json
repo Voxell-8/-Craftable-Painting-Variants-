@@ -42,7 +42,28 @@
       "craftable_paintings:wasteland",
       "craftable_paintings:water",
       "craftable_paintings:wind",
-      "craftable_paintings:wither"
+      "craftable_paintings:wither",
+
+      "craftable_paintings:backyard",
+      "craftable_paintings:baroque",
+      "craftable_paintings:bouquet",
+      "craftable_paintings:cavebird",
+      "craftable_paintings:changing",
+      "craftable_paintings:cotan",
+      "craftable_paintings:endboss",
+      "craftable_paintings:fern",
+      "craftable_paintings:finding",
+      "craftable_paintings:humble",
+      "craftable_paintings:lowmist",
+      "craftable_paintings:meditative",
+      "craftable_paintings:orb",
+      "craftable_paintings:owlemons",
+      "craftable_paintings:passage",
+      "craftable_paintings:pond",
+      "craftable_paintings:prairie_ride",
+      "craftable_paintings:sunflowers",
+      "craftable_paintings:tides",
+      "craftable_paintings:unpacked"
     ]
   }
 }
