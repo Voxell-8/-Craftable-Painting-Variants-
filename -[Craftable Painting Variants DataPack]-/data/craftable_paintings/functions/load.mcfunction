@@ -103,3 +103,27 @@ scoreboard objectives add water trigger
 
 
 scoreboard objectives add fire trigger
+
+
+
+
+scoreboard objectives add meditative trigger
+scoreboard objectives add prairie_ride trigger
+scoreboard objectives add baroque trigger
+scoreboard objectives add humble trigger
+scoreboard objectives add changing trigger
+scoreboard objectives add finding trigger
+scoreboard objectives add lowmist trigger
+scoreboard objectives add passage trigger
+scoreboard objectives add bouquet trigger
+scoreboard objectives add cavebird trigger
+scoreboard objectives add cotan trigger
+scoreboard objectives add endboss trigger
+scoreboard objectives add fern trigger
+scoreboard objectives add owlemons trigger
+scoreboard objectives add sunflowers trigger
+scoreboard objectives add tides trigger
+scoreboard objectives add backyard trigger
+scoreboard objectives add pond trigger
+scoreboard objectives add orb trigger
+scoreboard objectives add unpacked trigger

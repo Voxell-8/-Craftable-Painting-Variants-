@@ -226,6 +226,10 @@ scoreboard players set @a skull_on_fire 0
 
 
 
+
+
+
+
 scoreboard players enable @a earth
 execute as @a[scores={earth=1..}] run give @p minecraft:painting[minecraft:entity_data={variant: "minecraft:earth", id: "minecraft:painting"}, minecraft:custom_model_data=27]
 scoreboard players set @a earth 0
@@ -250,3 +254,94 @@ scoreboard players set @a water 0
 scoreboard players enable @a fire
 execute as @a[scores={fire=1..}] run give @p minecraft:painting[minecraft:entity_data={variant: "minecraft:fire", id: "minecraft:painting"}, minecraft:custom_model_data=30]
 scoreboard players set @a fire 0
+
+
+
+
+
+
+
+
+
+
+
+
+scoreboard players enable @a meditative
+execute as @a[scores={meditative=1..}] run give @p minecraft:painting[minecraft:entity_data={variant: "minecraft:meditative", id: "minecraft:painting"}, minecraft:custom_model_data=31]
+scoreboard players set @a meditative 0
+
+scoreboard players enable @a prairie_ride
+execute as @a[scores={prairie_ride=1..}] run give @p minecraft:painting[minecraft:entity_data={variant: "minecraft:prairie_ride", id: "minecraft:painting"}, minecraft:custom_model_data=32]
+scoreboard players set @a prairie_ride 0
+
+scoreboard players enable @a baroque
+execute as @a[scores={baroque=1..}] run give @p minecraft:painting[minecraft:entity_data={variant: "minecraft:baroque", id: "minecraft:painting"}, minecraft:custom_model_data=33]
+scoreboard players set @a baroque 0
+
+scoreboard players enable @a humble
+execute as @a[scores={humble=1..}] run give @p minecraft:painting[minecraft:entity_data={variant: "minecraft:humble", id: "minecraft:painting"}, minecraft:custom_model_data=34]
+scoreboard players set @a humble 0
+
+scoreboard players enable @a changing
+execute as @a[scores={changing=1..}] run give @p minecraft:painting[minecraft:entity_data={variant: "minecraft:changing", id: "minecraft:painting"}, minecraft:custom_model_data=35]
+scoreboard players set @a changing 0
+
+scoreboard players enable @a finding
+execute as @a[scores={finding=1..}] run give @p minecraft:painting[minecraft:entity_data={variant: "minecraft:finding", id: "minecraft:painting"}, minecraft:custom_model_data=36]
+scoreboard players set @a finding 0
+
+scoreboard players enable @a lowmist
+execute as @a[scores={lowmist=1..}] run give @p minecraft:painting[minecraft:entity_data={variant: "minecraft:lowmist", id: "minecraft:painting"}, minecraft:custom_model_data=37]
+scoreboard players set @a lowmist 0
+
+scoreboard players enable @a passage
+execute as @a[scores={passage=1..}] run give @p minecraft:painting[minecraft:entity_data={variant: "minecraft:passage", id: "minecraft:painting"}, minecraft:custom_model_data=38]
+scoreboard players set @a passage 0
+
+scoreboard players enable @a bouquet
+execute as @a[scores={bouquet=1..}] run give @p minecraft:painting[minecraft:entity_data={variant: "minecraft:bouquet", id: "minecraft:painting"}, minecraft:custom_model_data=39]
+scoreboard players set @a bouquet 0
+
+scoreboard players enable @a cavebird
+execute as @a[scores={cavebird=1..}] run give @p minecraft:painting[minecraft:entity_data={variant: "minecraft:cavebird", id: "minecraft:painting"}, minecraft:custom_model_data=40]
+scoreboard players set @a cavebird 0
+
+scoreboard players enable @a cotan
+execute as @a[scores={cotan=1..}] run give @p minecraft:painting[minecraft:entity_data={variant: "minecraft:cotan", id: "minecraft:painting"}, minecraft:custom_model_data=41]
+scoreboard players set @a cotan 0
+
+scoreboard players enable @a endboss
+execute as @a[scores={endboss=1..}] run give @p minecraft:painting[minecraft:entity_data={variant: "minecraft:endboss", id: "minecraft:painting"}, minecraft:custom_model_data=42]
+scoreboard players set @a endboss 0
+
+scoreboard players enable @a fern
+execute as @a[scores={fern=1..}] run give @p minecraft:painting[minecraft:entity_data={variant: "minecraft:fern", id: "minecraft:painting"}, minecraft:custom_model_data=43]
+scoreboard players set @a fern 0
+
+scoreboard players enable @a owlemons
+execute as @a[scores={owlemons=1..}] run give @p minecraft:painting[minecraft:entity_data={variant: "minecraft:owlemons", id: "minecraft:painting"}, minecraft:custom_model_data=44]
+scoreboard players set @a owlemons 0
+
+scoreboard players enable @a sunflowers
+execute as @a[scores={sunflowers=1..}] run give @p minecraft:painting[minecraft:entity_data={variant: "minecraft:sunflowers", id: "minecraft:painting"}, minecraft:custom_model_data=45]
+scoreboard players set @a sunflowers 0
+
+scoreboard players enable @a tides
+execute as @a[scores={tides=1..}] run give @p minecraft:painting[minecraft:entity_data={variant: "minecraft:tides", id: "minecraft:painting"}, minecraft:custom_model_data=46]
+scoreboard players set @a tides 0
+
+scoreboard players enable @a backyard
+execute as @a[scores={backyard=1..}] run give @p minecraft:painting[minecraft:entity_data={variant: "minecraft:backyard", id: "minecraft:painting"}, minecraft:custom_model_data=47]
+scoreboard players set @a backyard 0
+
+scoreboard players enable @a pond
+execute as @a[scores={pond=1..}] run give @p minecraft:painting[minecraft:entity_data={variant: "minecraft:pond", id: "minecraft:painting"}, minecraft:custom_model_data=48]
+scoreboard players set @a pond 0
+
+scoreboard players enable @a orb
+execute as @a[scores={orb=1..}] run give @p minecraft:painting[minecraft:entity_data={variant: "minecraft:orb", id: "minecraft:painting"}, minecraft:custom_model_data=49]
+scoreboard players set @a orb 0
+
+scoreboard players enable @a unpacked
+execute as @a[scores={unpacked=1..}] run give @p minecraft:painting[minecraft:entity_data={variant: "minecraft:unpacked", id: "minecraft:painting"}, minecraft:custom_model_data=50]
+scoreboard players set @a unpacked 0
